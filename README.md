@@ -21,8 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vanditv1008/Leetdsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
