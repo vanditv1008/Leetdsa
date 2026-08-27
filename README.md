@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vanditv1008/Leetdsa/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
