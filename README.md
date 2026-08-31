@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanditv1008/Leetdsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/vanditv1008/Leetdsa/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vanditv1008/Leetdsa/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
