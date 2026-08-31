@@ -20,22 +20,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vanditv1008/Leetdsa/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vanditv1008/Leetdsa/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vanditv1008/Leetdsa/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
