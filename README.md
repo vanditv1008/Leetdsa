@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vanditv1008/Leetdsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
