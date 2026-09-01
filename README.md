@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
