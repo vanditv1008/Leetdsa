@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -161,8 +163,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
