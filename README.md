@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vanditv1008/Leetdsa/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0700-search-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
