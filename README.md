@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanditv1008/Leetdsa/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/vanditv1008/Leetdsa/tree/master/2236-root-equals-sum-of-children) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanditv1008/Leetdsa/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/vanditv1008/Leetdsa/tree/master/2236-root-equals-sum-of-children) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanditv1008/Leetdsa/tree/master/1325-delete-leaves-with-a-given-value) |
 ## DP on Trees
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 ## Trie
 |  |
 | ------- |
