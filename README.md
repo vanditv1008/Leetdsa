@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
