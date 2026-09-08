@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
