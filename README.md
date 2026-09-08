@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vanditv1008/Leetdsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0062-unique-paths) |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanditv1008/Leetdsa/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,4 +276,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
