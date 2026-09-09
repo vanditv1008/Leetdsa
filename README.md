@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vanditv1008/Leetdsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanditv1008/Leetdsa/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -320,9 +322,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
