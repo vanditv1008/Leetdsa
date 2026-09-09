@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vanditv1008/Leetdsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanditv1008/Leetdsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vanditv1008/Leetdsa/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanditv1008/Leetdsa/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
