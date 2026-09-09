@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vanditv1008/Leetdsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/vanditv1008/Leetdsa/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/vanditv1008/Leetdsa/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
