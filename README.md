@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanditv1008/Leetdsa/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vanditv1008/Leetdsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
