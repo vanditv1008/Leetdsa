@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/vanditv1008/Leetdsa/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
