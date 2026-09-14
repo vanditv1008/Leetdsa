@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanditv1008/Leetdsa/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vanditv1008/Leetdsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vanditv1008/Leetdsa/tree/master/0785-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
