@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vanditv1008/Leetdsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanditv1008/Leetdsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vanditv1008/Leetdsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/vanditv1008/Leetdsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanditv1008/Leetdsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Ternary Search
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanditv1008/Leetdsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -318,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -357,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
