@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vanditv1008/Leetdsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/vanditv1008/Leetdsa/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vanditv1008/Leetdsa/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
