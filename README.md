@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/vanditv1008/Leetdsa/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vanditv1008/Leetdsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vanditv1008/Leetdsa/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -377,4 +379,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
