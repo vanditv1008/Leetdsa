@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanditv1008/Leetdsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanditv1008/Leetdsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vanditv1008/Leetdsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanditv1008/Leetdsa/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
