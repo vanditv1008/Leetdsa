@@ -3,7 +3,7 @@ class Solution {
     int n=nums.length;
     int[] ans=new int[n];
     Stack<Integer>s=new Stack<>();
-    ans[n-1]=-1;
+    
     for(int i=2*n-1;i>=0;i--){
         int idx=i%n;
         while(!s.isEmpty() && nums[s.peek()]<=nums[idx]){
