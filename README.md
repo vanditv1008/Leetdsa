@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vanditv1008/Leetdsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanditv1008/Leetdsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vanditv1008/Leetdsa/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/vanditv1008/Leetdsa/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/vanditv1008/Leetdsa/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/vanditv1008/Leetdsa/tree/master/0896-monotonic-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/vanditv1008/Leetdsa/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
