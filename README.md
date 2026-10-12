@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vanditv1008/Leetdsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanditv1008/Leetdsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vanditv1008/Leetdsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanditv1008/Leetdsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanditv1008/Leetdsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vanditv1008/Leetdsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
