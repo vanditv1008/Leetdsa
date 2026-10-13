@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vanditv1008/Leetdsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/vanditv1008/Leetdsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/vanditv1008/Leetdsa/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0503-next-greater-element-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/vanditv1008/Leetdsa/tree/master/0334-increasing-triplet-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanditv1008/Leetdsa/tree/master/2073-time-needed-to-buy-tickets) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vanditv1008/Leetdsa/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
