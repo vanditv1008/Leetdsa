@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vanditv1008/Leetdsa/tree/master/0143-reorder-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanditv1008/Leetdsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vanditv1008/Leetdsa/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vanditv1008/Leetdsa/tree/master/0151-reverse-words-in-a-string) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vanditv1008/Leetdsa/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanditv1008/Leetdsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
