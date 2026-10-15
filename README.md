@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanditv1008/Leetdsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanditv1008/Leetdsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vanditv1008/Leetdsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/vanditv1008/Leetdsa/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanditv1008/Leetdsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanditv1008/Leetdsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vanditv1008/Leetdsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -427,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/vanditv1008/Leetdsa/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanditv1008/Leetdsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanditv1008/Leetdsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
