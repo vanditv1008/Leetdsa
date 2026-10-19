@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanditv1008/Leetdsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vanditv1008/Leetdsa/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
