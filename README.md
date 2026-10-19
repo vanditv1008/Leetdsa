@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/vanditv1008/Leetdsa/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanditv1008/Leetdsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
