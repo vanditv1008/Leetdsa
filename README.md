@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanditv1008/Leetdsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vanditv1008/Leetdsa/tree/master/0136-single-number) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vanditv1008/Leetdsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/vanditv1008/Leetdsa/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vanditv1008/Leetdsa/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
