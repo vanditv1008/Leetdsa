@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanditv1008/Leetdsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/vanditv1008/Leetdsa/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/vanditv1008/Leetdsa/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanditv1008/Leetdsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanditv1008/Leetdsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanditv1008/Leetdsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanditv1008/Leetdsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vanditv1008/Leetdsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanditv1008/Leetdsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vanditv1008/Leetdsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanditv1008/Leetdsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vanditv1008/Leetdsa/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanditv1008/Leetdsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vanditv1008/Leetdsa/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -484,4 +489,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vanditv1008/Leetdsa/tree/master/0051-n-queens) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vanditv1008/Leetdsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
