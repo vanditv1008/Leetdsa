@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanditv1008/Leetdsa/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanditv1008/Leetdsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vanditv1008/Leetdsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanditv1008/Leetdsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanditv1008/Leetdsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanditv1008/Leetdsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanditv1008/Leetdsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/vanditv1008/Leetdsa/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vanditv1008/Leetdsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanditv1008/Leetdsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/vanditv1008/Leetdsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanditv1008/Leetdsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanditv1008/Leetdsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vanditv1008/Leetdsa/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanditv1008/Leetdsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanditv1008/Leetdsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanditv1008/Leetdsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
